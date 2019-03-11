@@ -34,11 +34,11 @@ output {
 ```
 
 ## Setup and Run ELK
-run elasticsearch
 ```
+# run elasticsearch
 elasticsearch
+# check if elasticsearch is running on local: http://127.0.0.1:9200/ 
 ```
-check if elasticsearch is running on local: http://127.0.0.1:9200/ 
 ```
 # insert the data
 export TIME_PERIOD="03102013-03102019"
