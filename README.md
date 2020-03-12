@@ -1,9 +1,15 @@
 # ELKstack-Bitcoin
 Visualizing historical data of Bitcoin using ELK (Elasticsearch, Logstash, Kibana) Stack
 
-## Install ELK on Mac OS X using Homebrew
+## Install 
+* Services
 ```
-brew intstall elastic-search
+brew tap gapple/services
+```
+
+* ELK on Mac OS X using Homebrew
+```
+brew install elastic-search
 brew install kibana
 brew install logstsh
 ```
