@@ -9,7 +9,7 @@ brew tap gapple/services
 
 * ELK on Mac OS X using Homebrew
 ```
-brew install elastic-search
+brew install elasticsearch
 brew install kibana
 brew install logstsh
 ```
